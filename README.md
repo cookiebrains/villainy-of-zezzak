@@ -1,5 +1,11 @@
 # villainy-of-zezzak
 
+Repo URL: https://github.com/cookiebrains/villainy-of-zezzak
+
+```
+git clone https://github.com/cookiebrains/villainy-of-zezzak.git
+```
+
 ## File Structure and Deployment
 
 The "docs" directory is published to a "Github Pages" website whenever you publish changes on the main branch.
