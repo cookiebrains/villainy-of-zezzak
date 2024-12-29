@@ -2,7 +2,7 @@
 
 ## File Structure and Deployment
 
-The `src` directory is published to a "Github Pages" website whenever you publish changes on the main branch.
+The "docs" directory is published to a "Github Pages" website whenever you publish changes on the main branch.
 
 ## Converting and Optimizing Images
 
